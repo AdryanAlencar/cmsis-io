@@ -227,7 +227,7 @@ const Home: NextPage = () => {
                                     <i className="flaticon-world"></i>
                                 </div>
                                 <h3 className="title">International</h3>
-                                <p> If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing.</p>
+                                <p> If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&apos;t anything embarrassing.</p>
                                 <a href="#" className="read-link">View International<i className="ti-arrow-right"></i></a>
                             </div>
                         </div>
